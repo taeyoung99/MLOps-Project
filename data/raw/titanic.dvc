@@ -1,0 +1,6 @@
+outs:
+- md5: a80a56e85f6bf52796be9d251dc58e46.dir
+  size: 127958
+  nfiles: 4
+  hash: md5
+  path: titanic
